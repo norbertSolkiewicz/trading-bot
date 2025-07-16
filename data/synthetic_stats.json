@@ -1,0 +1,54 @@
+[
+  {
+    "pattern": "ATM",
+    "symbol": "EURUSD",
+    "timeframe": "M15",
+    "usd_result": 12.5,
+    "pips_result": 25,
+    "rr_ratio": 2.0,
+    "datetime": "2025-06-20 10:15:00",
+    "entry_type": "breakout",
+    "sl_price": 1.0845,
+    "tp": 1.086,
+    "direction": "buy"
+  },
+  {
+    "pattern": "MOB",
+    "symbol": "GBPUSD",
+    "timeframe": "H1",
+    "usd_result": -8.0,
+    "pips_result": -20,
+    "rr_ratio": 0.5,
+    "datetime": "2025-06-19 14:30:00",
+    "entry_type": "limit",
+    "sl_price": 1.269,
+    "tp": 1.271,
+    "direction": "sell"
+  },
+  {
+    "pattern": "ATM",
+    "symbol": "USDJPY",
+    "timeframe": "M30",
+    "usd_result": 20.0,
+    "pips_result": 40,
+    "rr_ratio": 2.5,
+    "datetime": "2025-06-18 09:45:00",
+    "entry_type": "breakout",
+    "sl_price": 142.3,
+    "tp": 142.7,
+    "direction": "buy"
+  },
+  {
+    "pattern": "MOB",
+    "symbol": "EURUSD",
+    "timeframe": "H1",
+    "usd_result": -5.0,
+    "pips_result": -10,
+    "rr_ratio": 0.6,
+    "datetime": "2025-06-17 16:00:00",
+    "entry_type": "limit",
+    "sl_price": 1.08,
+    "tp": 1.082,
+    "direction": "sell"
+  }
+]

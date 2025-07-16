@@ -1,0 +1,13 @@
+/project-root
+├── core/
+│   ├── pattern_fibo_atm.py         # Klasa PatternFiboATM
+│   ├── pattern_mob.py              # Klasa PatternMOB
+│   ├── sl_tp_manager.py            # Klasa SLTPManager
+│   ├── risk_manager.py             # Klasa RiskManager
+│   └── pattern_stats_logger.py     # Klasa PatternStatsLogger
+├── ai/
+│   └── ai_report_generator.py      # Klasa AIReportGenerator
+├── utils/
+│   └── mt5_interface.py            # Funkcje do integracji z MetaTrader 5
+├── main.py                         # Punkt startowy aplikacji (MVP test integracyjny)
+├── CHANGELOG.md                    # Historia zmian projektu

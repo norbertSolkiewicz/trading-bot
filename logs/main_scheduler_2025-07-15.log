@@ -1,0 +1,42 @@
+2025-07-15 17:40:30,343 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn M15 (*/15 * * * *)
+2025-07-15 17:40:30,343 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn H1 (0 * * * *)
+2025-07-15 17:40:30,343 | INFO | [SCHEDULE] Zadanie dodane: GBPUSD.ecn M15 (*/15 * * * *)
+2025-07-15 17:40:30,344 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn H1 (0 * * * *)
+2025-07-15 17:40:30,344 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn D1 (0 9 * * *)
+2025-07-15 17:40:30,360 | INFO | [START] Harmonogram APScheduler uruchomiony
+2025-07-15 18:00:10,615 | INFO | [STOP] Zatrzymano harmonogram.
+2025-07-15 18:00:12,602 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn M15 (*/15 * * * *)
+2025-07-15 18:00:12,603 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn H1 (0 * * * *)
+2025-07-15 18:00:12,604 | INFO | [SCHEDULE] Zadanie dodane: GBPUSD.ecn M15 (*/15 * * * *)
+2025-07-15 18:00:12,604 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn H1 (0 * * * *)
+2025-07-15 18:00:12,605 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn D1 (0 9 * * *)
+2025-07-15 18:00:12,609 | INFO | [START] Harmonogram APScheduler uruchomiony
+2025-07-15 18:08:28,936 | INFO | [STOP] Zatrzymano harmonogram.
+2025-07-15 18:08:41,593 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn M15 (*/15 * * * *)
+2025-07-15 18:08:41,594 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn H1 (0 * * * *)
+2025-07-15 18:08:41,594 | INFO | [SCHEDULE] Zadanie dodane: GBPUSD.ecn M15 (*/15 * * * *)
+2025-07-15 18:08:41,594 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn H1 (0 * * * *)
+2025-07-15 18:08:41,594 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn D1 (0 9 * * *)
+2025-07-15 18:08:41,596 | INFO | [START] Harmonogram APScheduler uruchomiony
+2025-07-15 18:30:52,694 | INFO | [STOP] Zatrzymano harmonogram.
+2025-07-15 18:34:45,417 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn, M15 (*/15 * * * *)
+2025-07-15 18:34:45,417 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn, H1 (0 * * * *)
+2025-07-15 18:34:45,417 | INFO | [SCHEDULE] Zadanie dodane: GBPUSD.ecn, M15 (*/15 * * * *)
+2025-07-15 18:34:45,417 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn, H1 (0 * * * *)
+2025-07-15 18:34:45,417 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn, D1 (0 9 * * *)
+2025-07-15 18:34:45,420 | INFO | [START] Harmonogram APScheduler uruchomiony
+2025-07-15 18:49:16,481 | INFO | [STOP] Zatrzymano harmonogram.
+2025-07-15 18:53:37,157 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn M15 (*/15 * * * *)
+2025-07-15 18:53:37,158 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn H1 (0 * * * *)
+2025-07-15 18:53:37,158 | INFO | [SCHEDULE] Zadanie dodane: GBPUSD.ecn M15 (*/15 * * * *)
+2025-07-15 18:53:37,158 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn H1 (0 * * * *)
+2025-07-15 18:53:37,158 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn D1 (0 9 * * *)
+2025-07-15 18:53:37,161 | INFO | [START] Harmonogram APScheduler uruchomiony
+2025-07-15 19:03:48,827 | INFO | [STOP] Zatrzymano harmonogram.
+2025-07-15 19:27:46,771 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn M15 (*/15 * * * *)
+2025-07-15 19:27:46,771 | INFO | [SCHEDULE] Zadanie dodane: EURUSD.ecn H1 (0 * * * *)
+2025-07-15 19:27:46,771 | INFO | [SCHEDULE] Zadanie dodane: GBPUSD.ecn M15 (*/15 * * * *)
+2025-07-15 19:27:46,771 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn H1 (0 * * * *)
+2025-07-15 19:27:46,772 | INFO | [SCHEDULE] Zadanie dodane: USDJPY.ecn D1 (0 9 * * *)
+2025-07-15 19:27:46,774 | INFO | [START] Harmonogram APScheduler uruchomiony
+2025-07-15 19:30:46,149 | INFO | [STOP] Zatrzymano harmonogram.

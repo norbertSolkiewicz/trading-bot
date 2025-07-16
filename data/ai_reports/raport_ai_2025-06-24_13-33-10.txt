@@ -1,0 +1,15 @@
+(Brak modelu AI. Wersja offline raportuje tylko dane tabelaryczne.)
+
+Pattern: ATM
+  Liczba wystąpień: 2
+  Skuteczność: 100.0%
+  Średni zysk: 16.25 USD
+  Średnia strata: 0 USD
+  Średni RR: 2.25
+
+Pattern: MOB
+  Liczba wystąpień: 2
+  Skuteczność: 0.0%
+  Średni zysk: 0 USD
+  Średnia strata: -6.5 USD
+  Średni RR: 0.55
